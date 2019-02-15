@@ -1,2 +1,2 @@
 # corruption-detector
-Detecting corruption in european public procurement
+Detecting corruption in European public procurement
